@@ -1,0 +1,26 @@
+to get camera_v2 driver
+git clone https://github.com/MiCode/Xiaomi_Kernel_OpenSource --branch=land-m-oss --single-branch
+git clone https://source.codeaurora.org/quic/la/kernel/msm-3.18 --branch=LA.UM.5.1-03810-8x37.0 --single-branch
+
+git clone https://source.codeaurora.org/quic/la/kernel/msm-3.18 -b kernel.lnx.3.18.r34-rel
+git fetch https://android.googlesource.com/kernel/common android-3.18
+git fetch https://source.codeaurora.org/quic/la/kernel/msm-3.18 <tag>
+
+https://github.com/HridayHS/android_kernel_xiaomi_msm8937
+https://github.com/HyperTeam/android_kernel_xiaomi_msm8937
+https://github.com/LineageOS/android_kernel_xiaomi_msm8937
+https://github.com/RiteshSaxena/android_kernel_xiaomi_msm8937
+https://github.com/nichcream/android_kernel_xiaomi_msm8937
+https://github.com/ryan-andri/android_kernel_xiaomi_santoni
+
+https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git
+https://github.com/MiCode/Xiaomi_Kernel_OpenSource.git
+https://github.com/android-linux-stable/msm-3.18.git
+https://github.com/nathanchance/android-kernel-clang.git
+https://source.codeaurora.org/quic/la
+https://wiki.codeaurora.org/xwiki/bin/QAEP/release
+
+https://github.com/MiCode/Xiaomi_Kernel_OpenSource/commit/d34af556d86d4e2d615be97614ec8b79e7bfbe61
+https://github.com/nichcream/android_kernel_xiaomi_msm8937/commit/6671e615baf5210eb378483fec6d6481b956dc27
+https://github.com/nichcream/android_kernel_xiaomi_msm8937/commit/c847f8c7dec428bdf9200a4c87eccc42d524a6f7
+https://github.com/nichcream/android_kernel_xiaomi_msm8937/commit/e16d44cccc36a7404b5e439c5c85998aa01c77d1
